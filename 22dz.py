@@ -1,8 +1,8 @@
 import random
 import streamlit as st
-st.set_page_config(page_title="Мой Streamlit Веб-додаток", page_icon="🚀", layout="wide")
+st.set_page_config(page_title="Мій Streamlit Веб-додаток", page_icon="🚀", layout="wide")
 
-st.title("🌟 Мой многофункциональный веб-сайт")
+st.title("🌟 Мій многофункціональный веб-сайт")
 
 
 tab1, tab2, tab3 = st.tabs(
